@@ -3,6 +3,7 @@
 Advanced Network Analysis of the Global Music Ecosystem
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/NetworkX-Analysis-green" /> <img src="https://img.shields.io/badge/Gephi-Visualization-orange" /> <img src="https://img.shields.io/badge/Data-Spotify%20API-red" /> </p>
+
 📌 Overview
 
 This project constructs and analyzes one of the most comprehensive collaboration networks of Spotify’s Top 1000 artists, uncovering hidden structures, influential musicians, and the cross-genre bridges that shape modern music.
@@ -10,6 +11,11 @@ This project constructs and analyzes one of the most comprehensive collaboration
 Using Python, NetworkX, Gephi, and the Spotify API, the project transforms raw discography data into a high-resolution network model of 817 artists and 5,263 collaboration edges, complete with weighted relationships, genre mapping, and centrality insights.
 
 The work answers questions about artist influence, genre mixing, small-world behavior, and structural features of the global music industry.
+
+<img width="688" height="610" alt="image" src="https://github.com/user-attachments/assets/de419414-4d27-43f8-8b1e-aa063d2e659c" />
+
+<img width="492" height="579" alt="image" src="https://github.com/user-attachments/assets/b9dde5ac-1b35-4755-8fb8-ff2aae485e29" />
+
 
 🔍 Key Highlights
 ✔ Fully Automated Data Pipeline
